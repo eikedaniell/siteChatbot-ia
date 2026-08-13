@@ -1,10 +1,21 @@
 # ⚖️ Cidadan.ia
 
+
+
 > **Democratizando o acesso à Justiça Brasileira através da Inteligência Artificial.**
 
+
+
 <p align="center">
-  <img width="1918" height="906" alt="image" src="https://github.com/user-attachments/assets/52f5daac-088f-43fe-a124-ed01073d07c3" />
+  <img width="1918" height="906" alt="Demonstração do Cidadan.ia" src="https://github.com/user-attachments/assets/52f5daac-088f-43fe-a124-ed01073d07c3" />
 </p>
+
+---
+
+## 🔗 Link de Acesso
+
+Acesse e teste a plataforma diretamente no seu navegador:  
+👉 **[Acessar site](https://eikedaniell.github.io/siteChatbot-ia/)**
 
 ---
 
@@ -36,7 +47,7 @@ O projeto teve início em **2024**, na cidade de Teresina (PI), como parte de um
 ## 📂 Estrutura do Projeto
 
 ```text
-├── ia.html          # Página principal (Assistente Legal / Chat)
+├── index.html       # Página principal (Assistente Legal / Chat)
 ├── iasobre.html     # Página com história e missão do projeto
 ├── iacontato.html   # Página com formulário e informações de contato
 └── README.md        # Documentação do repositório
