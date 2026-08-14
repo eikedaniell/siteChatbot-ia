@@ -15,7 +15,7 @@
 ## 🔗 Link de Acesso
 
 Acesse e teste a plataforma diretamente no seu navegador:  
-👉 **[Acessar site](https://eikedaniell.github.io/siteChatbot-ia/)**
+👉 **[Acessar site](https://eikedaniell.github.io/siteChatbot/)**
 
 ---
 
